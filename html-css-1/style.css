@@ -1,0 +1,100 @@
+header {
+    height: 10vh;
+    width: 100vw;
+    background-color: rgb(90, 89, 89);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#company {
+    color: white;
+}
+#right-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-tags{
+    height: 20px;
+    width: 75px;
+    font-size: large;
+}
+
+#Container-1 {
+height: 400px;
+width: 100vw;
+background-color: black;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+ h1 {
+     font-size: 400%;
+     color: rgb(235, 219, 79)
+ }
+
+#Container-2 {
+    height: 400px;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 50px;
+}
+
+.green-box {
+    height: 340px;
+    width: 340px;
+    background: rgb(195, 245, 144);
+    border-radius: 5%;
+}
+
+#Container-3 {
+    height: 400px;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.orange-box {
+    height: 300px;
+    width: 600px;
+    background: orange;
+}
+
+#Container-4 {
+    height: 400px;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+p {
+    height: 300px;
+    width: 450px;
+    word-wrap: normal;
+    font-size: 140%;
+}
+
+#elephantPic {
+    height: 300px;
+    width: 450px;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    height: 300px;
+    width: 200px;
+}
+footer {
+    height: 20vh;
+    width: 100vw;
+    background: rgb(81, 50, 109);
+    
+}
